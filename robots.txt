@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aoals.github.io/eLZ/sitemap.eLZ.gz
